@@ -1,0 +1,9 @@
+[submodule "subprojects/microlog"]
+	path = subprojects/microlog
+	url = https://github.com/an-dr/microlog.git
+[submodule "subprojects/safetyhook"]
+	path = subprojects/safetyhook
+	url = https://github.com/cursey/safetyhook.git
+[submodule "subprojects/minhook"]
+	path = subprojects/minhook
+	url = https://github.com/TsudaKageyu/minhook.git

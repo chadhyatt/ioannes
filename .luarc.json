@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+  "runtime.version": "Lua 5.2",
+  "format.enable": true,
+  "diagnostics.disable": ["duplicate-set-field"],
+  "diagnostics.globals": [
+    "ioannes",
+    "bit32",
+    "channel",
+    "crypto",
+    "json",
+    "http",
+    "lfs",
+    "struct",
+    "hex",
+    "hexdump",
+    "swap",
+    "BitBuffer",
+    "LuaEncode"
+  ]
+}

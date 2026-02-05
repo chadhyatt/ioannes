@@ -1,0 +1,17 @@
+option(
+    'no_sigscans',
+    type: 'boolean',
+    value: false,
+)
+
+option(
+    'logfile',
+    type: 'boolean',
+    value: true,
+)
+
+option(
+    'dump_aes_decrypt',
+    type: 'boolean',
+    value: false,
+)
