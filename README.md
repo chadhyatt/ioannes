@@ -21,6 +21,7 @@ Ioannes is a tool and internal DLL for Rocket League designed to assist with rev
 
 ### Prerequisites
 Ioannes targets the MinGW-w64 toolchain, and isn't tested elsewhere. If you're using Windows, you can use [MSYS2](https://www.msys2.org/) and install prerequisites and build in that environment.
+* `git`
 * `meson`
 * `ninja`
 * `cmake`
