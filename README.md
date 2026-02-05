@@ -15,6 +15,9 @@ Ioannes is a tool and internal DLL for Rocket League designed to assist with rev
 > * This project is provided without warranty of any kind, or guaranteed support.
 > * I am not a C++, or Windows developer. I give no guarantees of expert code. 😀
 
+> [!IMPORTANT]
+> Reverse engineering and client modifications are officially against Rocket League's Terms of Service, and **account bans are possible**. I do not hold responsibility for any potential moderation actions.
+
 ## Install
 
 *Pre-built binaries are available on the [releases](https://github.com/chadhyatt/ioannes/releases) page.*
