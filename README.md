@@ -5,7 +5,7 @@ Ioannes is a tool and internal DLL for Rocket League designed to assist with rev
 ### Features
 
 * Internal ImGui-based user interface (toggle with the `INS` key)
-* Embedded Lua 5.1 ([gopher-lua](https://github.com/yuin/gopher-lua)) scripting API for networking-releated functions and MITM hooks. See: [scripts/](https://github.com/chadhyatt/ioannes/tree/master/scripts), [proxy/lua.go](https://github.com/chadhyatt/ioannes/blob/master/proxy/lua.go)
+* Embedded Lua 5.1 ([gopher-lua](https://github.com/yuin/gopher-lua)) scripting API with networking-releated functions and MITM hooks. See: [scripts/](https://github.com/chadhyatt/ioannes/tree/master/scripts), [proxy/lua.go](https://github.com/chadhyatt/ioannes/blob/master/proxy/lua.go)
 * Real-time packet sniffer and list for viewing decrypted incoming/outgoing packets
 
 > [!NOTE]
@@ -13,7 +13,6 @@ Ioannes is a tool and internal DLL for Rocket League designed to assist with rev
 >
 > With that being said:
 > * This project is provided without warranty of any kind, or guaranteed support.
-> * I am not a C++, or Windows developer. I give no guarantees of expert code. 😀
 
 > [!IMPORTANT]
 > Reverse engineering and client modifications are officially against Rocket League's Terms of Service, and **account bans are possible**. I do not hold responsibility for any potential moderation actions.
