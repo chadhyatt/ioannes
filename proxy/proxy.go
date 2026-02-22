@@ -121,8 +121,8 @@ func (server *Server) Start() (mitmConf *ServerConfig, err error) {
 				server.Conf.OnDisconnect()
 			}
 
-			listenConn.Close()
 			server.cancelFunc()
+			listenConn.Close()
 
 			server.wg.Done()
 			server.wg.Wait()
